@@ -12,6 +12,7 @@
 /.phpunit.cache
 /.vscode
 /.zed
+/AGENTS.md
 /auth.json
 /boost.json
 /node_modules
@@ -26,3 +27,4 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/.agents

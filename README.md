@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NewsRealm
 
 A modern news and article publishing platform built with Laravel 13, featuring a Filament admin panel, article categories, comments, newsletter subscriptions, and full-text search.
@@ -33,41 +32,32 @@ A modern news and article publishing platform built with Laravel 13, featuring a
 ### Installation
 
 ```bash
-# Clone the repository
-git clone <repository-url>
+git clone https://github.com/chibuezevince/newsrealm
 cd newsrealm
 
-# Install PHP dependencies
 composer install
 
-# Install Node dependencies
 npm install
 
-# Environment setup
 cp .env.example .env
 php artisan key:generate
 
-# Configure your database in .env, then run migrations
 php artisan migrate
 
-# Build frontend assets
 npm run build
 
-# Start the development server
 php artisan serve
 ```
 
 ### Development
 
 ```bash
-# Start the dev server with Vite hot-reloading
 npm run dev
 ```
 
 ## Testing
 
 ```bash
-# Run the test suite
 php artisan test --compact
 ```
 
@@ -82,7 +72,3 @@ php artisan db:seed
 ## License
 
 This project is open-sourced under the MIT license.
-=======
-# newsrealm
-News Realm is a basic scaffolding for a news/blog application buiilt with laravel, htmx and filament. 
->>>>>>> 00c7f62d1e508c14a9268b4f121876804ec928b6

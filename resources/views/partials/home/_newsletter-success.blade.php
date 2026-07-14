@@ -1,0 +1,1 @@
+<p style="color: var(--accent); font-weight: 600;">Thanks, you are subscribed!</p>

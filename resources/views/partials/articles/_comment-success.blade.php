@@ -1,0 +1,1 @@
+<p style="color: var(--accent); font-weight: 600;">Your comment has been submitted and will appear after review.</p>
